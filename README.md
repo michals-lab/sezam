@@ -14,4 +14,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#body
 
 https://nodes-testnet.wavesnodes.com/assets/balance/3My2QNcLCqvFwFfK4vXnp17h3xSBvaAXsfP
 
+https://www.freecodecamp.org/news/testing-react-hooks/
+
 
